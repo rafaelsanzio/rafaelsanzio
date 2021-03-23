@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Sanzio</h1>
-<h3 align="center">A Brazillian backend developer, studying to be a fullstack developer</h3>
+<h3 align="center">A Brazillian backend developer, studying to try to be a complete Backend + DevOps developer</h3>
 
 - 🌱  I’m currently learning **NodeJS with TypeScript, Golang** with TDD and design patterns
 
